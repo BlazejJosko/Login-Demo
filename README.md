@@ -6,7 +6,7 @@ To run this demo you will need [php](https://www.php.net/downloads.php).
 ## Running the demo
 
 Navigate to the project root and execute `php -S localhost:8080`.
-And navigate to `localhost:8080/` in you browser.
+And navigate to [`localhost:8080/`](http://localhost:8080/) in you browser.
 
 ## How to use
 
