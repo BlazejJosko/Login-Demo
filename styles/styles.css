@@ -1,0 +1,8 @@
+.hidden {
+    opacity: 0;
+    -webkit-user-drag: none;
+}
+
+.card {
+    width: 600px !important;
+}
