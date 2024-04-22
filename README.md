@@ -17,3 +17,16 @@ This will redirect the user to the register page where the user can create an ac
 After successfully creating an account the user will be redirected to the login page.  
 There the user can login with his newly created account.  
 After the login the user will be redirected to the index page again.  
+
+
+## Test Account
+
+There is already an existing account which can be used without creating a new one.  
+The username is `123` and the password is `123`.  
+
+
+## How it works
+
+The logins are stored in files named after the user with the content being the hashed password.
+
+
